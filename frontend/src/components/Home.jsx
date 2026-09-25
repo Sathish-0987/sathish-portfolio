@@ -9,6 +9,7 @@ export default function Home() {
         <h1>MERN Stack Developer</h1>
         <p>My name is Sathish Kumar</p>
         <p>I am BE Computer Science and Engineering Graduate</p>
+        <p>HI</p>
     </div>
   )
 }
