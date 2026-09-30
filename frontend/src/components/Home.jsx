@@ -13,6 +13,15 @@ export default function Home() {
 
 I enjoy building responsive and user-friendly web applications and continuously improving my development skills. I am currently looking for an opportunity to start my career as a Web Developer or MERN Stack Developer, where I can apply my knowledge, work on real-world projects, and grow as a professional.
 </p>
+<h1>Skills</h1>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Node.js</li>
+  <li>MongoDB</li>
+</ul>
     </div>
   )
 }
